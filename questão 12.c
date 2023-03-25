@@ -23,11 +23,12 @@ int main() {
     printf("Digite o valor em reais: ");
     scanf("%d", &valor);
 
-    /* verificar primeiramente se o valor é maior que as cédulas que estamos verificando, 
-    pra poder ver quantas cédulas de cada uma irão ser dadas.
-    E em cada if dar um novo valor utilizando-se do módulo (%) a variável "valor" 
-    pra verificar a cédula seguinte e assim por diante. Como eu queria verificar todos as etapas,
-    eu não poderia usar "elses ou else if".
+    /* verifiquei primeiramente se o valor é maior que a primeira cédula que é a de 100, pra poder ver 
+    quantas cédulas de cada cédula disponível irão ser dadas. E em cada if dar-se um novo valor 
+    utilizando-se do módulo (%) da variável "valor", aqui a gente verifica quanto falta do dinheiro 
+    após retirar o valor da cédula anterior, e depois verificamos a cédula seguinte e assim por diante. 
+    Como eu queria verificar todos as etapas, eu não poderia usar "elses ou else if", 
+    pois não iriam entrar para testar cada cédula e iria dar erro.
     */
     if (valor >= 100) {
         cem = valor/100;
