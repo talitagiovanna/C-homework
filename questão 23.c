@@ -26,7 +26,7 @@ int main() {
                 pelo o usuário.
                 */
                 if (j == i) {
-                    printf("%d", i);
+                    printf("%d\n", i);
                     /*
                     Com isso, dividimos num pelo fator primo encontrado "i" e colocamos o valor restante desta 
                     divisão em "num". E, posteriormente, diminuimos o valor de i para que ele seja testado 
@@ -38,4 +38,6 @@ int main() {
             }
         }
     }
+    return 0;
+    printf("Os fatores primos de %d são: ", num);
 }
