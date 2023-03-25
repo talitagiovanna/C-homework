@@ -18,9 +18,10 @@ int main() {
     scanf("%d", &segundos);
 
     /*Como 1 hora é 3600 segundos, eu dividi os segundos dados por 3600 pra saber a quantidade de horas.
-    Depois disso, calculei o resto dos segundos que não entraram nas horas, para calcular os minutos.
-    Como 1 minuto é 60 segundos, eu dividi os segundos restantes por 60 pra saber a quantidade de minutos.
-    Depois disso, caculei o resto dos segundos que não entraram nos minutos. 
+    Depois disso, calculei o restante dos segundos que não entraram nas horas calculando o módulo de segundos, 
+    para depois ir calcular os minutos. 
+    Como 1 minuto é 60 segundos, eu dividi os segundos restantes por 60 pra saber a quantidade de minutos. 
+    Depois disso, caculei o resto dos segundos que não entraram nos minutos, utilizando do módulo de novo. 
     */
     horas = segundos/3600;
     segundos_restantes = segundos % 3600;
