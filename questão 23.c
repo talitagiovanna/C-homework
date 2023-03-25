@@ -17,7 +17,7 @@ int main() {
                 é um número primo. Se não for, ele não vai ser colocado como um fator primo e esse for
                 vai ser interrompido através do uso de "break" para que ele verifique o próximo valor de i.
                 */
-                if (i % j && j != i) {
+                if (i % j == 0 && j != i) {
                     break;
                 }
                 /*
