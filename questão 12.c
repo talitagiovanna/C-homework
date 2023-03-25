@@ -27,7 +27,7 @@ int main() {
     quantas cédulas de cada cédula disponível irão ser dadas. E em cada if dar-se um novo valor 
     utilizando-se do módulo (%) da variável "valor", aqui a gente verifica quanto falta do dinheiro 
     após retirar o valor da cédula anterior, e depois verificamos a cédula seguinte e assim por diante. 
-    Como eu queria verificar todos as etapas, eu não poderia usar "elses ou else if", 
+    Como eu queria verificar todos as etapas, eu não poderia usar "else ou else if", 
     pois não iriam entrar para testar cada cédula e iria dar erro.
     */
     if (valor >= 100) {
