@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-Implementar a função inverte que recebe um número unsigned int como parâmetro 
+45. Implementar a função inverte que recebe um número unsigned int como parâmetro 
 e retorna este número escrito ao contrário. Ex: 431 <-> 134.
 */
 
