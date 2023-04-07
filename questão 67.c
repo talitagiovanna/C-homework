@@ -21,8 +21,8 @@ int main() {
     printf("Valores lidos na ordem inversa:\n");
 
     /*
-    Nesse segundo laço "for" é feito a verificação de cada número da lista "valores", com isso trocando
-    as posições dos números de forma inversa e mostrando ao usuário na saída.
+    Nesse segundo laço "for" é feito a verificação de cada número da lista "valores", com isso fazendo
+    a leitura dos números de forma inversa e mostrando ao usuário na saída.
     */
 
     for (int i = 5; i >= 0; i--) {
