@@ -9,7 +9,7 @@ que contém apenas os números que estão em ambos os vetores. Não deve conter 
 #define TAM 10 
 
 /*
-A função "#define" foi usada para deifnir um tamanho fixo dos vetores que irão apresentar no código. 
+A função "#define" foi usada para definir um tamanho fixo dos vetores que irão apresentar no código. 
 */
 
 int main() {
