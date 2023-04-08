@@ -17,7 +17,7 @@ typedef struct {
 
 // Aqui é definido uma função chamada classifica que recebe três floats e retorna uma struct MaMeMe.
 MaMeMe classifica(float n1, float n2, float n3) {
-    MaMeMe resultado; // DeclarAqui é declarado uma variável do tipo MaMeMe para armazenar o resultado.
+    MaMeMe resultado; // Aqui é declarado uma variável do tipo MaMeMe para armazenar o resultado.
 
     // Aqui é onde irá ser encontrado o menor número.
     resultado.menor = n1; // Inicializa o campo "menor" com o valor de n1.
