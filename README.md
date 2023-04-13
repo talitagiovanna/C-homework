@@ -1,6 +1,6 @@
 # Data Structure Activity
 
->Status: Developing 
+>Status: Finished 
 
 ### 1. Objective
 
@@ -18,5 +18,5 @@ Tércio       | 5, 16, 27, 38, 49, 53, 60, 71, 82, 93, 104, 115, 126, 137, 148, 
 Leonardo     | 6, 17, 28, 39, 50, 61, 64, 72, 83, 94, 105, 116, 127, 138, 149, 160, 163, 171, 182, 193, 204  | [atividadeC](https://github.com/LeoLaurentino/atividadeC)
 Rubens       | 7, 18, 29, 40, 51, 62, 73, 75, 84, 95, 106, 117, 128, 139, 150, 161, 172, 174, 183, 194, 205  | [EstruturaDeDados_1aUnidade](https://github.com/rubensrates/EstruturaDeDados_1aUnidade)
 Jhonas       | 8, 19, 30, 41, 52, 63, 74, 85, 86, 96, 107, 118, 129, 140, 151, 162, 173, 184, 185, 195, 206  | [atividadechicoat](https://github.com/jhonasbs/atividadechicoat)
-Joana        | 10, 21, 32, 43, 54, 65, 76, 87, 97, 98, 109, 120, 131, 142, 153, 164, 175, 186, 196, 197, 208 |
+Joana        | 10, 21, 32, 43, 54, 65, 76, 87, 97, 98, 109, 120, 131, 142, 153, 164, 175, 186, 196, 197, 208 | [Atividades-C](https://github.com/Marqueskarina/Atividades-C/tree/main)
 Guilherme    | 11, 22, 33, 44, 55, 66, 77, 88, 99, 108, 110, 121, 132, 143, 154, 165, 176, 187, 198, 207, 209 | [atividade_de_chico](https://github.com/guilhermecavalcantii/atividade_de_chico)
